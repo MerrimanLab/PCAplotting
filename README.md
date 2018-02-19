@@ -32,10 +32,6 @@ if(!require("ggplot2")){
   install.packages("ggplot2")
 }
 
-if(!require("car")){
-  install.packages("car")
-}
-
 if(!require("ggrepel")){
   install.packages("ggrepel")
 }
