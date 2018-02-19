@@ -9,8 +9,7 @@ library(shinythemes)
 library(utils)
 library(dplyr)
 library(ggplot2)
-library(car) #dataEllipse
-library("ggrepel") # label points
+library(ggrepel) # label points
 
 
 PCAtestdata <- read.delim("PCAtestdata.txt", stringsAsFactors = F)
